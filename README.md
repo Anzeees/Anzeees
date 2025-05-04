@@ -1,6 +1,5 @@
 <!-- Banner personalizado -->
 <p align="center">
-  <img src="https://i.imgur.com/tq9ToPC.png" alt="Banner Anzees" style="border-radius: 10px;" />
 </p>
 
 <h2 align="center">¡Hola, soy Anzees 👋!</h2>
@@ -35,14 +34,6 @@
 - 📚 Estudiando Desarrollo de Aplicaciones Web
 - 🧠 Aprendiendo por mi cuenta Vue.js, Firebase y Tailwind
 - 🎯 Enfocado en dominar los fundamentos antes de iniciar proyectos personales
-
----
-
-### 📊 Mis estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anzees&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
 
 ---
 
